@@ -1,1 +1,1 @@
-# my_first_internship_resume
+# first_internship_resume
